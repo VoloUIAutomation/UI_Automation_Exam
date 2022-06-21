@@ -1,0 +1,10 @@
+
+We have 2 test cases, one need to search per criteria, second should check favorites.
+
+We keep pep8 standartd
+We are using POM and distributed 4 pages - favorite, header, login, menu, result
+
+we are keeping logger, driver should be kept in contest
+
+all environment crenedntails
+
